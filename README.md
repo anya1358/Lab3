@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+Team Member Names:
+Emma Teehan
+Sam Diaz
+Carter Jansen
+Andrew Yamane
 Ryan Olichney
 =======
 # Lab3
