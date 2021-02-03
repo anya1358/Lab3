@@ -1,1 +1,1 @@
-Sam Diaz
+Samuel Diaz
