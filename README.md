@@ -1,4 +1,4 @@
-Team Member Names:
+Project Team Members:
 Emma Teehan
 Samuel Diaz
 Carter Jansen
