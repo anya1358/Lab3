@@ -1,4 +1,4 @@
-Team Member Names:
+Project Team Members:
 Emma Teehan
 Samuel Diaz
 Carter Jansen
@@ -8,3 +8,6 @@ Emma Teehan
 =======
 # Lab3
 adasdaffdgtgsddfg
+
+
+added some text -Sam
