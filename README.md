@@ -1,6 +1,6 @@
 Team Member Names:
 Emma Teehan
-Sam Diaz
+Samuel Diaz
 Carter Jansen
 Andrew Yamane
 Ryan Olichney
