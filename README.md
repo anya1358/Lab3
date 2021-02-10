@@ -1,10 +1,7 @@
-Project Team Members:
-Emma Teehan
-Samuel Diaz
-Carter Jansen
-Andrew Yamane
 Ryan Olichney
 Emma Teehan
+Cater Jansen
+Andrew Yamane
 =======
 # Lab3
 adasdaffdgtgsddfg
